@@ -3,7 +3,7 @@
 **Tema:** Anatomía RESTful, URIs Nombres y Recursos  
 **Docente Titular:** MCC. Iván Márquez Larios (`ijmarquezl`)  
 **Estudiante:** Fernanda de Jesús Pat Palomo  
-**Matrícula:** [No. de Control]  
+**Matrícula:** [23531112]  
 **Track:** Python/FastAPI  
 
 ---
