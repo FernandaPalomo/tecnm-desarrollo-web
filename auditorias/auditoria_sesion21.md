@@ -3,7 +3,7 @@
 **Tema:** Fundamentos de Persistencia: SQLite / PostgreSQL y Drivers  
 **Docente Titular:** MCC. Iván Márquez Larios (`ijmarquezl`)  
 **Estudiante:** Fernanda Palomo  
-**Matrícula:** [No. de Control]  
+**Matrícula:** [23531112]  
 **Track:** Python/FastAPI  
 
 ---
