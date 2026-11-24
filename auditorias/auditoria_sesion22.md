@@ -233,4 +233,4 @@ def listar_libros(db: Session = Depends(get_db)):
 > ```
 
 ---
-**Firma digital:** FernandaPalomo ✔
+**Firma digital:** FernandaPalomo
